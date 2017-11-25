@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "performerId": 2,
+    "title": "Grenade",
+    "numberOne": true
+  },
+  {
+    "id": 2,
+    "performerId": 4,
+    "title": "Bad Romance",
+    "numberOne": false
+  },
+  {
+    "id": 3,
+    "performerId": 1,
+    "title": "Hotline Bling",
+    "numberOne": false
+  },
+  {
+    "id": 4,
+    "performerId": 3,
+    "title": "Roar",
+    "numberOne": true
+  },
+  {
+    "id": 5,
+    "performerId": 2,
+    "title": "24K Magic",
+    "numberOne": true
+  },
+  {
+    "id": 6,
+    "performerId": 1,
+    "title": "Hold On, We're Going Home",
+    "numberOne": true
+  }
+]

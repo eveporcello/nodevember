@@ -1,0 +1,24 @@
+type Song {
+  id: ID!
+  performerId: Int
+  title: String
+  numberOne: Boolean
+  performer: Performer
+}
+
+type Performer {
+  id: ID!
+  name: String
+  songs: [Song!]!
+}
+
+type Query {
+  allSongs: [Song!]!,
+  song(title: String!): Song!
+  allPerformers: [Performer!]!,
+  performer(name: String!): Performer!
+}
+
+type Mutation {
+  addSong(title: String!, numberOne: Boolean, performerName: String!): Song
+}

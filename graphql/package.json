@@ -1,0 +1,21 @@
+{
+	"name": "graphql",
+	"version": "0.0.1",
+	"description": "A short workshop to teach GraphQL and Apollo.",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"main": "index.js",
+	"author": "Eve Porcello",
+	"license": "MIT",
+	"dependencies": {
+		"apollo-server-express": "^1.2.0",
+		"body-parser": "^1.18.2",
+		"cors": "^2.8.4",
+		"express": "^4.16.2",
+		"graphql": "^0.11.7",
+		"graphql-tools": "^2.8.0",
+		"lodash": "^4.17.4",
+		"shortid": "^2.2.8"
+	}
+}

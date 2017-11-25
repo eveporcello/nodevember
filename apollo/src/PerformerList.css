@@ -1,0 +1,13 @@
+div.performer {
+  text-align: left;
+  padding: 1em;
+  margin: 1em;
+  border: solid 2px darkgray;
+  display: inline-block;
+  width: 40%;
+}
+
+div.performer h2 {
+  font-family: Impact;
+  font-size: 1.2em;
+}
