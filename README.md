@@ -30,8 +30,9 @@ Here are some resources to help you in your journey with GraphQL.
 * [Relay Modern](https://facebook.github.io/relay/)
 * [Relay Tutorial](https://facebook.github.io/relay/docs/tutorial.html)
 
-### Slides
+### Other
 
-* [Eve's Slides](https://docs.google.com/presentation/d/1FeWLuHAJHMkhwy3RDq63StkzEorIkeHPfehEKzlLVUo/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1FeWLuHAJHMkhwy3RDq63StkzEorIkeHPfehEKzlLVUo/edit?usp=sharing)
+* [Coming Soon -- GraphQL Workshop](https://www.graphqlworkshop.com)
 
 Questions? Contact Eve Porcello, eve@moonhighway.com, @eveporcello
