@@ -3,7 +3,7 @@ GraphQL Workshop - Nodevember
 
 ## GraphQL Resources
 
-Here are some resources to help you in your journey with GraphQL.
+Here are some resources to help you in your journey with GraphQL!
 
 ### Graph Theory
 
